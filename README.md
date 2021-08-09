@@ -1,7 +1,7 @@
 ### Hi there 👋
  My name is Yunus Herman
  
- I am a versatile data analyst and data scientist with a proven track record in data crawling as well as building and maintaining
+ I am a versatile  data scientist and data analyst with a proven track record in data crawling as well as building and maintaining
 databases. My goal is to deal with today’s typical information overload by formulating and presenting clear
 and concise analyses. I have lived and worked in three different continents with different cultures and
 languages, which has made me adaptable and open to new ideas and situations.
