@@ -3,7 +3,7 @@
  
  I am a versatile data analyst with a proven track record in data crawling as well as building and maintaining
 databases. My goal is to deal with today’s typical information overload by formulating and presenting clear
-and concise analyses. I have lived and worked in three different countries with different cultures and
+and concise analyses. I have lived and worked in three different continents with different cultures and
 languages, which has made me adaptable and open to new ideas and situations.
 <!--
 **yunus-herman/yunus-herman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
